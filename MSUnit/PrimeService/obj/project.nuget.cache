@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1feAdxoq7LMOzSmWbAv1G+7VuWhC1nKRp7OSHR3ke3IUGa6HKKm8fbVqgZk/zHR+TVoHH+q53OH5dkZao3v3Iw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Lodomir\\Downloads\\3. testy + CRUD\\MSUnit\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lodomir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lodomir\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
